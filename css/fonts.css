@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/RobotoLight.eot");
+	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+			 url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoThin";
+	src: url("../fonts/RobotoThin/Roboto-Thin.eot");
+	src: url("../fonts/RobotoThin/Roboto-Thin.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoThin/Roboto-Thin.woff") format("woff"),
+			 url("../fonts/RobotoThin/Roboto-Thin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "FiraSansExtraBoldItalic";
+	src: url("../fonts/FiraSansExtraBoldItalic/FiraSansExtraBoldItalic.eot");
+	src: url("../fonts/FiraSansExtraBoldItalic/FiraSansExtraBoldItalic.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/FiraSansExtraBoldItalic/FiraSansExtraBoldItalic.woff") format("woff"),
+			 url("../fonts/FiraSansExtraBoldItalic/FiraSansExtraBoldItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "FontAwesome";
+	src: url("../fonts/FontAwesome/FontAwesome.eot");
+	src: url("../fonts/FontAwesome/FontAwesome.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/FontAwesome/FontAwesome.woff") format("woff"),
+			 url("../fonts/FontAwesome/FontAwesome.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
